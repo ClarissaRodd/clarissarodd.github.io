@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Clarissa S. Rodriguez"
+  pronouns         : # example: "she/her/ella"  
+  bio              : "Postdoc at San Diego State University, working with Dr. Megan Jennings  and Dr. Janet Franklin. My research focuses on improving the predictive capacity of ecology to guide restoration and conservation efforts in the face of climate change."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "San Diego State Univeristy"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "crodriguez19@sdsu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -120,7 +120,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @Clarissarodd
 facebook:
   username               :
   app_id                 :
